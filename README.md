@@ -30,3 +30,17 @@ Note: It is important to start the Mosquitto broker first before running python 
   • In the mic.py terminal, press the Enter key and ask the assistant
   
   • The program will read the answer and display it in the terminal meaning.py and spk.py
+  
+### This program only understands questions asked like: 
+
+     'co oznacza {}', 'znaczenie słowa {} ', 'co znaczy słowo {}', 'jakie jest znaczenie słowa {}', 
+     'co to {}', 'co znaczy {}', 'co oznacza słowo {}', 'jaki jest znaczenie słowa {}', 'kto to {}', 
+     'kim jest {}','jakie znaczenie ma słowo {}','jakie znaczenie ma {}'
+        
+   where {} means the word that you are looking for meaning
+   
+   
+   
+## Usage examples
+
+<img width="599" alt="Zrzut ekranu 2022-05-7 o 12 06 36" src="https://user-images.githubusercontent.com/92359411/167249664-db9d7b01-3883-48a1-850a-eb384c3ba939.png">
